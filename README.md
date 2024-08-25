@@ -14,7 +14,6 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://porttfoliooo.netlify.app/](https://porttfoliooo.netlify.app/)
 
 - 💬 Ask me about **MERN and DSA**
 
