@@ -11,9 +11,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌐 Full Stack Web Developer
-
- 💡 Problem Solver
-
+- 💡 Problem Solver
 - 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **ranjanparidasoumya04@gmail.com**
