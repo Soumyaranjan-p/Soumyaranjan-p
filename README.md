@@ -12,7 +12,7 @@
 
 - 🌐 Full Stack Web Developer
 
- -💡 Problem Solver
+ 💡 Problem Solver
 
 - 💬 Ask me about **MERN and DSA**
 
