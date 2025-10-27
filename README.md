@@ -53,8 +53,11 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" /></a>
   <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" height="40" alt="Framer Motion" /></a>
   <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" alt="Three.js" /></a>
-  <a href="https://docs.pmnd.rs/react-three-fiber" target="_blank"><img src="https://raw.githubusercontent.com/pmndrs/branding/main/r3f/r3f-logo.png" width="40" height="40" alt="React Three Fiber" /></a>
-  <a href="https://github.com/pmndrs/drei" target="_blank"><img src="https://raw.githubusercontent.com/pmndrs/branding/main/drei/drei-logo.png" width="40" height="40" alt="Drei" /></a>
+  <a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" style="background-color:white; padding:5px; border-radius:8px;" />
+</a>
+
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-p&show_icons=true&locale=en&layout=compact" alt="soumyaranjan-p" /></p>
