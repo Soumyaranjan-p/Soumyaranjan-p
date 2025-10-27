@@ -20,13 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soumya-ranjan-parida-44b71b286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-ranjan-parida-44b71b286" height="30" width="40" /></a>
-<a href="https://instagram.com/absolute_saroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="absolute_saroj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saroj_256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saroj_256" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
@@ -70,24 +63,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40" height="40"/>
-  </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-  </a>
-  <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="noreferrer">
-    <img src="https://github.com/pmndrs/react-three-fiber/raw/HEAD/docs/logo.svg" alt="react-three-fiber" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/pmndrs/drei" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/drei/master/.github/logo.svg" alt="drei" width="40" height="40"/>
-  </a>
-</p>
+    <img src=
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-p&show_icons=true&locale=en&layout=compact" alt="soumyaranjan-p" /></p>
