@@ -57,7 +57,6 @@
   <a href="https://nextjs.org/" target="_blank">
   
 
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-p&show_icons=true&locale=en&layout=compact" alt="soumyaranjan-p" /></p>
