@@ -47,18 +47,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p" alt="soumyaranjan-p" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/soumya-ranjan-parida-44b71b286" target="blank">
-  [  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-  </a>
-  <a href="https://instagram.com/absolute_saroj" target="blank">
-  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.leetcode.com/saroj_256" target="blank">
-   [ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />](https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-  </a>
-</p>
 <!--Contact Section--> 
 
 <h2 align="left">🤝Contact</h2>
@@ -72,14 +60,14 @@
 </a>
   
 <a href="mailto:ranjanparidasoumya04@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ranjanparidasoumya04@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/absolute_saroj" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.leetcode.com/saroj_256" target="_blank">
-<img src=https://img.shields.io/badge/leetcode?style=for-the-badge&logo=leetcode&logoColor=white  style="margin-bottom:5px;" />
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 </a>
 
 
