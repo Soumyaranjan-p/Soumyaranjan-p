@@ -41,12 +41,13 @@
 
 <!--Github stats Table--> 
 <h2 align="left">📊 Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p
-&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p
+&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-p&&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="soumyaranjan-p" />
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-p&show_icons=true&locale=en" alt="soumyaranjan-p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-p&show_icons=true&locale=en" alt="soumyaranjan-p" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p" alt="soumyaranjan-p" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p" alt="soumyaranjan-p" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,11 +89,6 @@
   <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" alt="Three.js" /></a>
   <a href="https://nextjs.org/" target="_blank">
   
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-p&show_icons=true&locale=en&layout=compact" alt="soumyaranjan-p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-p&show_icons=true&locale=en" alt="soumyaranjan-p" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p" alt="soumyaranjan-p" /></p>
