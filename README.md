@@ -67,7 +67,7 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.leetcode.com/saroj_256" target="_blank">
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+  <img src=https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white alt=saroj_256 Leetcode style="margin-bottom: 5px;" />
 </a>
 
 
