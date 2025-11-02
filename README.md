@@ -1,22 +1,16 @@
 
 <!--Header Name-->
-# Hi, I'm Hruthik 👋
+# Hi, I'm Soumya 👋
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
-<img align="right" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?w=1060" width="400" alt="Coding">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaranjan-p" />
-</p>
-
-
-
-- 🌐 Full Stack Web Developer  
+- 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify)
+- 🔎 You will find me most active on [@absolute_saroj](https://www.instagram.com/absolute_saroj/).
 - 💡 Problem Solver  
-- 💬 Ask me about **MERN and DSA**  
-- 📫 How to reach me **ranjanparidasoumya04@gmail.com**  
-- ⚡ Fun fact **I am an E-Sports Player also who won multiple tournaments.**
+- 💻 Visit my [Portfolio](https://threed-portfolio-0.onrender.com/) for more details about me.
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaranjan-p" />
+</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
