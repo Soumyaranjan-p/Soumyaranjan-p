@@ -41,8 +41,12 @@
 
 <!--Github stats Table--> 
 <h2 align="left">📊 Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyaranjan-p
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p
 &theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-p&show_icons=true&locale=en" alt="soumyaranjan-p" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p" alt="soumyaranjan-p" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
