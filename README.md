@@ -59,6 +59,29 @@
    [ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />](https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
   </a>
 </p>
+<!--Contact Section--> 
+
+<h2 align="left">🤝Contact</h2>
+<p>For a quick response, DM me on <strong>twitter</strong></p>
+<br />
+
+<div align="left">
+  
+ <a href="https://www.linkedin.com/in/soumya-ranjan-parida-44b71b286/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:ranjanparidasoumya04@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/absolute_saroj" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.leetcode.com/saroj_256" target="_blank">
+<img src=https://img.shields.io/badge/leetcode?style=for-the-badge&logo=leetcode&logoColor=white  style="margin-bottom:5px;" />
+</a>
+
 
 
 
