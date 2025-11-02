@@ -9,7 +9,7 @@
 - 💡 Problem Solver  
 - 💻 Visit my [Portfolio](https://threed-portfolio-0.onrender.com/) for more details about me.
   <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaranjan-p" />
+  <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="soumyaranjan-p" style="padding-right:20px;" />
 </p> 
   <!--Languages and Tools Section-->       
 <h2 align="left">📦 Technologies</h2> 
