@@ -45,20 +45,18 @@
 &theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-p&&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="soumyaranjan-p" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-p&show_icons=true&locale=en" alt="soumyaranjan-p" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p" alt="soumyaranjan-p" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/soumya-ranjan-parida-44b71b286" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  [  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
   </a>
   <a href="https://instagram.com/absolute_saroj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.leetcode.com/saroj_256" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+   [ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />](https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
   </a>
 </p>
 
