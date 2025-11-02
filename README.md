@@ -1,7 +1,9 @@
-![logo](https://user-images.githubusercontent.com/38730778/214901429-9a5944da-6de9-484c-ae4c-5f4aa899793c.png)
-<h1 align="center">Hi 👋, I'm Soumyaranjan Parida</h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
 
+<!--Header Name-->
+# Hi, I'm Hruthik 👋
+
+<!--Start Intro-->               
+- ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
 <img align="right" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg?w=1060" width="400" alt="Coding">
 
 <p align="left">
