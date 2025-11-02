@@ -11,6 +11,37 @@
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaranjan-p" />
 </p> 
+  <!--Languages and Tools Section-->       
+<h2 align="left">📦 Technologies</h2> 
+<p align="left">
+<!-- <img width="500px"  src="https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,express,mongo,mysql,html,css,appwrite,git,vscode,postman&perline=10"  /> -->
+  
+**Frontend**:
+```React```
+```NextJs```
+```HTML```
+```css```
+```Tailwind```
+
+**Backend**:
+```Express```
+```NodeJS```
+```MongoDB```
+
+**Version Control**:
+```Git```
+```Github```
+```Gitlab```
+
+**Others**:
+```render```
+```vercel```
+```netlify```
+</p>
+
+<!--Github stats Table--> 
+<h2 align="left">📊 Github Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthik-28&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
