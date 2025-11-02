@@ -60,7 +60,11 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
@@ -87,6 +91,6 @@
   <a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" width="40" height="40" alt="Three.js" /></a>
   <a href="https://nextjs.org/" target="_blank">
   
-</p>
+</p> -->
 
 
