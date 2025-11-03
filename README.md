@@ -1,6 +1,6 @@
 
 <!--Header Name-->
-# Hi, I'm Soumya 👋
+<h1 align="center"># Hi, I'm Soumya 👋</h1>
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js.
