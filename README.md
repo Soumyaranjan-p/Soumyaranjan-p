@@ -1,5 +1,5 @@
 #### <h3 align="center">Sup! I'm Soumya </h3>
-<p align="center"> _I write for machines, but humans seem to like it too. 😉!_</p>
+<p align="center"> _I write for machines, but humans seem to like it too.😉!_</p>
 
 ##
 
