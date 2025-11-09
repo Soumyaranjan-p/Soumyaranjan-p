@@ -4,7 +4,10 @@
 <!--_I write something for machines and they understand!_
 I write the recipes that computers follow --> 
 I write for machines, but humans seem to like it too. 😉
-<hr style="border: 0; height: 0.1px; background-color: rgba(255, 255, 255, 0.08); margin: 20px 0;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%" />
+</p>
+
 
 
 
