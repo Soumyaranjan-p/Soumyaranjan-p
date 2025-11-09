@@ -1,8 +1,8 @@
 
 <Header Name-->
 <!-- <h1 align="center"> Hi, I'm Soumya 👋</h1> -->
-      <h5 align="center">Sup! I'm Soumya 👋</h5> 
-   <p  align="center">   _I write something for machines and they understand!_</p>
+  ### Sup! I'm Soumya 👋
+   _I write something for machines and they understand!_
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js.
