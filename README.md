@@ -1,7 +1,7 @@
 
 <Header Name-->
 <!-- <h1 align="center"> Hi, I'm Soumya 👋</h1> -->
-      <h1 align="center">Sup! I'm Soumya 👋</h1> 
+      <h5 align="center">Sup! I'm Soumya 👋</h5> 
    <p  align="center">   _I write something for machines and they understand!_</p>
 
 <!--Start Intro-->               
