@@ -2,7 +2,7 @@
 
 <!--Header Name-->
 #### Sup! I'm Soumya
-I write for machines, but humans seem to like it too.😉
+<p>I write for machines, but humans seem to like it too.😉</p>
 
 
 <!--Start Intro-->               
