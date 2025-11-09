@@ -1,8 +1,10 @@
 
 
-  ### Sup! I'm Soumya 👋
-   _I write something for machines and they understand!_
-   
+#### Sup! I'm Soumya
+<!--_I write something for machines and they understand!_
+I write the recipes that computers follow --> 
+I write for machines, but humans seem to like it too. 😉
+
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js.
 - 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify)
