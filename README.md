@@ -4,12 +4,11 @@
 <!--_I write something for machines and they understand!_
 I write the recipes that computers follow --> 
 I write for machines, but humans seem to like it too. 😉
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/light.png" width="100%" />
 </p>
-
-
-
 
 
 <!--Start Intro-->               
