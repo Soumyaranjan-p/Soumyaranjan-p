@@ -1,9 +1,8 @@
 
-<!--Header Name-->
+<Header Name-->
 <!-- <h1 align="center"> Hi, I'm Soumya 👋</h1> -->
-#### Sup! I'm Soumya 👋 
-    <h1 align="center"> Hi, I'm Soumya 👋</h1> 
-_I write something for machines and they understand!_
+      <h1 align="center">Sup! I'm Soumya 👋</h1> 
+   <p  align="center">   _I write something for machines and they understand!_</p>
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js.
