@@ -4,7 +4,8 @@
 <!--_I write something for machines and they understand!_
 I write the recipes that computers follow --> 
 I write for machines, but humans seem to like it too. 😉
-<hr style="border: 0; height: 1px; background-color: #2f2f2f; margin: 25px 0;" />
+<hr style="border: 0; height: 0.5px; background-color: rgba(255, 255, 255, 0.08); margin: 25px 0;" />
+
 
 
 
