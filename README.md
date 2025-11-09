@@ -1,7 +1,8 @@
 
 
 <!--Header Name-->
-# Hi, I'm Hruthik 👋
+#### Sup! I'm Soumya
+I write for machines, but humans seem to like it too.😉
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
