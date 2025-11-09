@@ -1,20 +1,13 @@
 
 <!--Header Name-->
-#### Sup! I'm Soumya
 <!--_I write something for machines and they understand!_
 I write the recipes that computers follow --> 
-�
-
-
-
-
 <!--Header Name-->
-# Hi, I'm Hruthik 👋
+#### Sup! I'm Soumya
+I write for machines, but humans seem to like it too.😉
 
 <!--Start Intro-->               
-- ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
-<!--Start Intro-->               
-- ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js.
+- ✨ I am a Full Stack Developer with a huge love for Javascript,Typescript, React.js, Node.js, Next.js
 - 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify)
 - 🔎 You will find me most active on [@absolute_saroj](https://www.instagram.com/absolute_saroj/).
 - 💡 Problem Solver  
