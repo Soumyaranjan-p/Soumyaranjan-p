@@ -1,8 +1,6 @@
 
-<!--Header Name-->
-<!--_I write something for machines and they understand!_
-I write the recipes that computers follow --> 
-<!--Header Name-->
+
+Header Name
 #### Sup! I'm Soumya
 I write for machines, but humans seem to like it too.😉
 
