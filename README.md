@@ -1,11 +1,9 @@
-### Sup! I'm Soumya
+#### Sup! I'm Soumya
 _I write for machines, but humans seem to like it too.😉!_
-
-
-
+<p></p>
 
 <!--Start Intro-->               
-- ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
+- ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js.
 - 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify)
 - 🔎 You will find me most active on [@absolute_saroj](https://www.instagram.com/absolute_saroj/).
 - 💡 Problem Solver  
