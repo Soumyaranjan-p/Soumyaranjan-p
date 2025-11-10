@@ -8,9 +8,9 @@
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript,Typescript, React.js, Node.js, Next.js.
-- 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify)
+- 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify).
 - 🔎 You will find me most active on [@absolute_saroj](https://www.instagram.com/absolute_saroj/).
-- 💡 Problem Solver  
+- 💡 Problem Solver.
 - 💻 Visit my [Portfolio](https://threed-portfolio-0.onrender.com/) for more details about me.
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="soumyaranjan-p" style="padding-right:20px;" />
