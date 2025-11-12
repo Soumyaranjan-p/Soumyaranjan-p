@@ -2,7 +2,6 @@
 <p align="center"> _I write for machines, but humans seem to like it too.😉!_</p>
 
 ##
-
 <!-- GitHub Markdown spacing quirk -->
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript,Typescript, React.js, Node.js, Next.js.
