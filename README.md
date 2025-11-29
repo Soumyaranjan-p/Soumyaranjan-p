@@ -77,7 +77,7 @@
 <a href="https://www.leetcode.com/saroj_256" target="_blank">
   <img src=https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white alt=saroj_256 Leetcode style="margin-bottom: 5px;" />
 </a>
-<h3 align="left">🚀 🧩 My Tech Arsenal</h3>
+<h3 align="left">🚀  My Tech Arsenal</h3>
 <p align="left">
 
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
