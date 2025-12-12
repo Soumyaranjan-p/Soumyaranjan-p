@@ -48,7 +48,9 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p
 &theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" /> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=typescript" alt="soumyaranjan-p" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=typescript" alt="soumyaranjan-p" /> -->
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soumyaranjan-p&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=typescript&cache_seconds=7200" alt="soumyaranjan-p" />
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p&theme=nightowl&hide_border=false" alt="soumyaranjan-p" />
