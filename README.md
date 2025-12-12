@@ -49,7 +49,10 @@
 &theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" /> -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=typescript" alt="soumyaranjan-p" /> -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soumyaranjan-p&layout=compact&theme=nightowl&hide_border=false&count_private=true&include_all_commits=true&v=3)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soumyaranjan-p&layout=compact&theme=nightowl&hide_border=false&count_private=true&include_all_commits=true)
+
+
 
 
 
