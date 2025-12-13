@@ -52,16 +52,10 @@
 
 
 
-
-
-
-
-
-
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p&theme=nightowl&hide_border=false" alt="soumyaranjan-p" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p&theme=nightowl" alt="GitHub Streak" />
 </p>
+
 
 
 <!--Contact Section--> 
