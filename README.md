@@ -52,7 +52,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p&theme=nightowl" alt="GitHub Streak" />
 </p>
 
