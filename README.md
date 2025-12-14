@@ -52,8 +52,15 @@
 
 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p&theme=nightowl" alt="GitHub Streak" />
+</p> -->
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaranjan-p&theme=nightowl"
+    alt="GitHub Streak"
+    width="420"
+  />
 </p>
 
 
