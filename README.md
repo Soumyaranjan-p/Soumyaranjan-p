@@ -89,6 +89,13 @@
 <a href="https://www.leetcode.com/saroj_256" target="_blank">
   <img src=https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white alt=saroj_256 Leetcode style="margin-bottom: 5px;" />
 </a>
+<a href="https://x.com/soumya_ai" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" 
+    alt="X profile"
+    style="margin-bottom: 5px;"
+  />
+</a>
 <h3 align="left">🚀  My Tech Arsenal</h3>
 <p align="left">
 
