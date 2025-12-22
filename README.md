@@ -91,7 +91,7 @@
 </a>
 <a href="https://x.com/soumya_ai" target="_blank">
   <img 
-    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=&logoColor=white" 
+    src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" 
     alt="X profile"
     style="margin-bottom: 5px;"
   />
