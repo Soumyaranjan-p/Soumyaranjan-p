@@ -109,7 +109,8 @@
 </a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /></a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" 
+   [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+
          width="50" height="50" alt="Next.js"
          style="background:white; padding:6px; border-radius:10px; box-shadow:0 0 10px #00000080;" />
   </a>
