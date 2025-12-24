@@ -99,9 +99,10 @@
 <p align="left">
 
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
-  <a href="https://expressjs.com" 
-    /[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-></a>
+ <a href="https://expressjs.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+</a>
+
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
