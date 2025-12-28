@@ -12,6 +12,7 @@
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="soumyaranjan-p" style="padding-right:20px;" />
 </p> 
+
   <!--Languages and Tools Section-->       
 <h2 align="left">📦 Technologies</h2> 
 <p align="left">
