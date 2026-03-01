@@ -46,12 +46,12 @@
 <!--Github stats Table--> 
 <h2 align="left">📊 Github Stats</h2>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p
-&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p
+&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" /> 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p>
+</p> -->
  <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soumyaranjan-p&theme=nightowl" alt="GitHub Streak" />
 </p>
