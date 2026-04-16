@@ -98,10 +98,8 @@
   />
 </a>
 <h3 align="left">🚀 My Tech Arsenal</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cplusplus,express,firebase,git,html,js,ts,mongodb,nextjs,nodejs,postman,react,redux,docker,tailwind,threedotjs,framer,vercel,netlify,github,gitlab,css&perline=11" alt="Tech Stack" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=prisma,supabase,appwrite,mysql,postgres,redis,nginx,aws,cloudflare,figma,vscode,linux,windows&perline=11" alt="Additional Tech" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,express,firebase,git,html,js,ts,mongodb,nextjs,nodejs,postman,react,redux,docker,tailwind,threejs&perline=8" />
 </p>
 </p>
 
