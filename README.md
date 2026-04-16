@@ -97,7 +97,7 @@
     style="margin-bottom: 5px;"
   />
 </a>
-<h3 align="left">🚀 My Tech Arsenal</h3>
+<h3 align="center">🚀 My Tech Arsenal</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,express,firebase,git,html,js,ts,mongodb,nextjs,nodejs,postman,react,redux,docker,tailwind,threejs&perline=8" />
 </p>
