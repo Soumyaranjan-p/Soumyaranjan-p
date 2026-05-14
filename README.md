@@ -7,7 +7,7 @@
 <!-- GitHub Markdown spacing quirk -->
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Javascript,Typescript, React.js, Node.js, Next.js.
-- 🔭 I’m currently working on [E-Learnify](https://github.com/Soumyaranjan-p/E-learnify).
+- 🔭 I’m currently working on [Accent Lore]([https://github.com/Soumyaranjan-p/Ac](https://github.com/Soumyaranjan-p/accent.lore)).
 - 🔎 You will find me most active on [@absolute_saroj](https://www.instagram.com/absolute_saroj/).
 - 💡 Problem Solver.
 - 💻 Visit my [Portfolio](https://soumyaranjan-1.vercel.app/) for more details about me.
