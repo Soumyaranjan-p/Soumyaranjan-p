@@ -1,5 +1,11 @@
+
+
 #### <h3 align="center">Sup! I'm Soumya </h3>
+
 <p align="center"> _I write for machines, but humans seem to like it too.😉!_</p>
+<div align="center">
+<img src="https://media.giphy.com/media/iNPNqI81MvDQ4D4n6D/giphy.gif" alt="gif" />
+</div>
 
 
 ##
