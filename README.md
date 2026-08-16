@@ -1,10 +1,10 @@
-
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/bfeff199-96b7-47a2-9e61-1c2c5bd7c0b1" />
 
 #### <h3 align="center">Sup! I'm Soumya </h3>
 
 <p align="center"> _I write for machines, but humans seem to like it too.😉!_</p>
 <div align="center">
-<img src="https://media.giphy.com/media/iNPNqI81MvDQ4D4n6D/giphy.gif" alt="gif" />
+<img src=" https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZnN2Y0MnRhMWI2Mzc5bzJsZ20zbXhubmtxMHRzZjd0N21zczJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kpVMnBjSJCGcvj6p2H/giphy.gif " alt="gif" />
 </div>
 
 
