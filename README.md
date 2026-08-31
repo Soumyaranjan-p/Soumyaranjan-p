@@ -2,6 +2,7 @@
 
 #### <h3 align="center">Sup! I'm Soumya </h3>
 
+
 <p align="center"> _I write for machines, but humans seem to like it too.😉!_</p>
 <div align="center">
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/bfeff199-96b7-47a2-9e61-1c2c5bd7c0b1" />
