@@ -18,7 +18,8 @@
 - 💡 Problem Solver.
 - 💻 Visit my [Portfolio](https://soumyaranjan-1.vercel.app/) for more details about me.
   <p align="left">
-<img src="https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=770677&style=for-the-badge" alt="Profile views" />
+  
+![Profile views](https://komarev.com/ghpvc/?username=soumyaranjan-p&label=Profile%20views&color=770677&style=for-the-badge&logo=star)
 
 
 
