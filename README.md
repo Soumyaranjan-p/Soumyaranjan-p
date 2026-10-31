@@ -59,8 +59,8 @@
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaranjan-p&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p> -->
- <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soumyaranjan-p&theme=nightowl" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=soumyaranjan-p&theme=nightowl&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 <!-- <p align="left">
