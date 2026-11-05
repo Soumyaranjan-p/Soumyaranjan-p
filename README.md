@@ -7,7 +7,6 @@
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/bfeff199-96b7-47a2-9e61-1c2c5bd7c0b1" />
 </div>
 
-
 ##
 <!-- GitHub Markdown spacing quirk -->
 <!--Start Intro-->               
